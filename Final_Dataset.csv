@@ -1,0 +1,413 @@
+,year,category,winner,title,genres,MovieLensrating,runtimeMinutes,IMDBRating,numVotes
+0,1944,BEST PICTURE,False,Double Indemnity,Crime|Drama|Film-Noir,4.2,107,8.3,125662.0
+1,1944,BEST PICTURE,False,Gaslight,Drama|Thriller,4.03,114,7.8,20733.0
+2,1944,BEST PICTURE,True,Going My Way,Comedy|Drama|Musical,3.56,126,7.2,9228.0
+3,1944,BEST PICTURE,False,Since You Went Away,Drama|War,3.65,177,7.6,3879.0
+4,1944,BEST PICTURE,False,Wilson,Drama,3.21,154,6.8,1314.0
+5,1945,BEST PICTURE,False,Anchors Aweigh,Comedy|Musical,3.56,140,7.2,7177.0
+6,1945,BEST PICTURE,False,The Bells of St. Mary's,,,126,7.4,6375.0
+7,1945,BEST PICTURE,True,The Lost Weekend,,,101,8.0,30176.0
+8,1945,BEST PICTURE,False,Mildred Pierce,Drama|Film-Noir,3.93,111,8.0,19982.0
+9,1945,BEST PICTURE,False,Spellbound,Mystery|Romance|Thriller,3.89,111,7.6,39065.0
+10,1946,BEST PICTURE,True,The Best Years of Our Lives,,,170,8.1,52846.0
+11,1946,BEST PICTURE,False,Henry V,,,,,
+12,1946,BEST PICTURE,False,It's a Wonderful Life,Children|Drama|Fantasy|Romance,4.02,130,8.6,352487.0
+13,1946,BEST PICTURE,False,The Razor's Edge,,,145,7.5,4785.0
+14,1946,BEST PICTURE,False,The Yearling,,,128,7.3,4868.0
+15,1947,BEST PICTURE,False,The Bishop's Wife,,,109,7.6,12388.0
+16,1947,BEST PICTURE,False,Crossfire,Crime|Film-Noir,3.66,86,7.4,6599.0
+17,1947,BEST PICTURE,True,Gentleman's Agreement,Drama,3.74,118,7.4,13157.0
+18,1947,BEST PICTURE,False,Great Expectations,,,,,
+19,1947,BEST PICTURE,False,Miracle on 34th Street,Comedy|Drama,3.71,96,7.9,36755.0
+20,1948,BEST PICTURE,True,Hamlet,Drama,3.75,154,7.8,13761.0
+21,1948,BEST PICTURE,False,Johnny Belinda,Drama,3.53,102,7.8,3809.0
+22,1948,BEST PICTURE,False,The Red Shoes,,,134,8.3,24336.0
+23,1948,BEST PICTURE,False,The Snake Pit,,,108,7.6,5942.0
+24,1948,BEST PICTURE,False,The Treasure of the Sierra Madre,,,126,8.2,100647.0
+25,1949,BEST PICTURE,True,All the King's Men,Drama,3.9,110,7.5,11860.0
+26,1949,BEST PICTURE,False,Battleground,Action|Drama|War,3.53,118,7.5,6037.0
+27,1949,BEST PICTURE,False,The Heiress,,,115,8.2,11689.0
+28,1949,BEST PICTURE,False,A Letter to Three Wives,,,103,7.8,7496.0
+29,1949,BEST PICTURE,False,Twelve O'Clock High,Drama|War,3.89,132,7.8,11391.0
+30,1950,BEST PICTURE,True,All about Eve,,,,,
+31,1950,BEST PICTURE,False,Born Yesterday,Comedy,3.85,103,7.6,8916.0
+32,1950,BEST PICTURE,False,Father of the Bride,Comedy,3.46,92,7.2,9134.0
+33,1950,BEST PICTURE,False,King Solomon's Mines,Action|Adventure|Romance,3.33,103,6.9,5170.0
+34,1950,BEST PICTURE,False,Sunset Blvd.,,,,,
+35,1951,BEST PICTURE,True,An American in Paris,,,114,7.2,27161.0
+36,1951,BEST PICTURE,False,Decision before Dawn,,,,,
+37,1951,BEST PICTURE,False,A Place in the Sun,,,122,7.8,17906.0
+38,1951,BEST PICTURE,False,Quo Vadis,Drama|Romance,3.33,171,7.2,12087.0
+39,1951,BEST PICTURE,False,A Streetcar Named Desire,,,122,8.0,90884.0
+40,1952,BEST PICTURE,True,The Greatest Show on Earth,,,152,6.7,11488.0
+41,1952,BEST PICTURE,False,High Noon,Drama|Western,4.04,85,8.0,89920.0
+42,1952,BEST PICTURE,False,Ivanhoe,Adventure|Drama|Romance,3.18,106,6.8,7442.0
+43,1952,BEST PICTURE,False,Moulin Rouge,Drama,3.21,119,7.1,4479.0
+44,1952,BEST PICTURE,False,The Quiet Man,,,129,7.8,31544.0
+45,1953,BEST PICTURE,True,From Here to Eternity,Drama|Romance|War,3.93,118,7.7,39191.0
+46,1953,BEST PICTURE,False,Julius Caesar,Drama,3.55,120,7.4,9332.0
+47,1953,BEST PICTURE,False,Julius Caesar,Drama,3.55,\N,,
+48,1953,BEST PICTURE,False,The Robe,,,135,6.8,8055.0
+49,1953,BEST PICTURE,False,Roman Holiday,Comedy|Drama|Romance,4.06,118,8.1,116728.0
+50,1953,BEST PICTURE,False,Shane,Drama|Western,3.76,118,7.7,33258.0
+51,1954,BEST PICTURE,False,The Caine Mutiny,,,124,7.8,22510.0
+52,1954,BEST PICTURE,False,The Country Girl,,,104,7.3,4831.0
+53,1954,BEST PICTURE,True,On the Waterfront,Crime|Drama,4.13,108,8.2,127596.0
+54,1954,BEST PICTURE,False,Seven Brides for Seven Brothers,Comedy|Musical|Romance|Western,3.55,102,7.4,19272.0
+55,1954,BEST PICTURE,False,Three Coins in the Fountain,Drama|Romance,2.82,102,6.3,2742.0
+56,1955,BEST PICTURE,False,Love Is a Many-Splendored Thing,Drama|Romance|War,3.27,102,6.6,4011.0
+57,1955,BEST PICTURE,True,Marty,Drama|Romance,3.9,90,7.7,18971.0
+58,1955,BEST PICTURE,False,Mister Roberts,Comedy|Drama|War,4.04,123,7.7,14223.0
+59,1955,BEST PICTURE,False,Picnic,Drama,3.65,,,
+60,1955,BEST PICTURE,False,The Rose Tattoo,,,117,7.2,3124.0
+61,1956,BEST PICTURE,True,Around the World in 80 Days,Adventure|Comedy,3.47,175,6.8,21952.0
+62,1956,BEST PICTURE,False,Friendly Persuasion,Drama,3.81,137,7.5,5735.0
+63,1956,BEST PICTURE,False,Giant,Drama|Romance|Western,3.74,201,7.7,30945.0
+64,1956,BEST PICTURE,False,The King and I,,,133,7.5,21995.0
+65,1956,BEST PICTURE,False,The Ten Commandments,,,220,7.9,56606.0
+66,1957,BEST PICTURE,True,The Bridge on the River Kwai,,,161,8.2,184678.0
+67,1957,BEST PICTURE,False,Peyton Place,Drama|Romance,3.3,157,7.2,4708.0
+68,1957,BEST PICTURE,False,Sayonara,Drama,3.39,147,7.2,5346.0
+69,1957,BEST PICTURE,False,12 Angry Men,Drama,4.24,96,8.9,584744.0
+70,1957,BEST PICTURE,False,Witness for the Prosecution,Drama|Mystery|Thriller,4.08,116,8.4,89880.0
+71,1958,BEST PICTURE,False,Auntie Mame,Comedy|Drama,3.89,143,8.0,9405.0
+72,1958,BEST PICTURE,False,Cat on a Hot Tin Roof,Drama,3.93,108,8.1,39943.0
+73,1958,BEST PICTURE,False,The Defiant Ones,,,96,7.7,11772.0
+74,1958,BEST PICTURE,True,Gigi,Musical,3.6,115,6.8,17608.0
+75,1958,BEST PICTURE,False,Separate Tables,Drama,3.7,100,7.5,5907.0
+76,1959,BEST PICTURE,False,Anatomy of a Murder,Drama|Mystery,4.02,160,8.0,53536.0
+77,1959,BEST PICTURE,True,Ben-Hur,Action|Adventure|Drama,3.8,212,8.1,199622.0
+78,1959,BEST PICTURE,False,The Diary of Anne Frank,Drama|War,3.7,180,7.4,10952.0
+79,1959,BEST PICTURE,False,The Nun's Story,,,149,7.6,8422.0
+80,1959,BEST PICTURE,False,Room at the Top,Drama,3.81,117,7.6,4434.0
+81,1960,BEST PICTURE,False,The Alamo,,,162,6.9,13013.0
+82,1960,BEST PICTURE,True,The Apartment,,,125,8.3,141371.0
+83,1960,BEST PICTURE,False,Elmer Gantry,Drama,3.87,146,7.8,9190.0
+84,1960,BEST PICTURE,False,Sons and Lovers,Drama,3.08,103,7.3,1147.0
+85,1960,BEST PICTURE,False,The Sundowners,,,133,7.2,3405.0
+86,1961,BEST PICTURE,False,Fanny,Drama|Romance,3.32,134,7.0,1747.0
+87,1961,BEST PICTURE,False,The Guns of Navarone,,,158,7.6,41652.0
+88,1961,BEST PICTURE,False,The Hustler,,,134,8.0,70153.0
+89,1961,BEST PICTURE,False,Judgment at Nuremberg,Drama,3.96,186,8.2,61051.0
+90,1961,BEST PICTURE,True,West Side Story,Drama|Musical|Romance,3.72,153,7.6,86813.0
+91,1962,BEST PICTURE,True,Lawrence of Arabia,Adventure|Drama|War,4.11,216,8.3,238938.0
+92,1962,BEST PICTURE,False,The Longest Day,,,178,7.8,48624.0
+93,1962,BEST PICTURE,False,Meredith Willson's The Music Man,,,,,
+94,1962,BEST PICTURE,False,Mutiny on the Bounty,Adventure|Drama|Romance,3.57,178,7.3,13479.0
+95,1962,BEST PICTURE,False,To Kill a Mockingbird,Drama,4.15,129,8.3,268613.0
+96,1963,BEST PICTURE,False,America America,,,174,7.8,4300.0
+97,1963,BEST PICTURE,False,Cleopatra,Drama|Romance,3.44,192,7.0,26208.0
+98,1963,BEST PICTURE,False,How the West Was Won,,,,,
+99,1963,BEST PICTURE,False,Lilies of the Field,Drama,3.94,94,7.6,7895.0
+100,1963,BEST PICTURE,True,Tom Jones,Adventure|Comedy|Romance,3.77,128,6.6,10311.0
+101,1964,BEST PICTURE,False,Becket,Drama,3.91,148,8.0,12568.0
+102,1964,BEST PICTURE,False,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Comedy|War,4.21,95,8.4,410460.0
+103,1964,BEST PICTURE,False,Mary Poppins,Children|Comedy|Fantasy|Musical,3.72,139,7.8,140319.0
+104,1964,BEST PICTURE,True,My Fair Lady,Comedy|Drama|Musical|Romance,3.87,170,7.9,79112.0
+105,1964,BEST PICTURE,False,Zorba the Greek,,,142,7.7,18528.0
+106,1965,BEST PICTURE,False,Darling,Drama,3.42,128,7.2,5188.0
+107,1965,BEST PICTURE,False,Doctor Zhivago,Drama|Romance|War,3.92,197,8.0,63997.0
+108,1965,BEST PICTURE,False,Ship of Fools,Drama,3.5,149,7.2,4629.0
+109,1965,BEST PICTURE,True,The Sound of Music,,,172,8.0,180961.0
+110,1965,BEST PICTURE,False,A Thousand Clowns,,,118,7.5,2959.0
+111,1966,BEST PICTURE,False,Alfie,Comedy|Drama|Romance,3.6,114,7.1,12307.0
+112,1966,BEST PICTURE,True,A Man for All Seasons,,,120,7.8,27943.0
+113,1966,BEST PICTURE,False,The Russians Are Coming The Russians Are Coming,,,,,
+114,1966,BEST PICTURE,False,The Sand Pebbles,,,182,7.7,12077.0
+115,1966,BEST PICTURE,False,Who's Afraid of Virginia Woolf?,Drama,4.03,131,8.0,63471.0
+116,1967,BEST PICTURE,False,Bonnie and Clyde,Crime|Drama,3.85,111,7.9,93040.0
+117,1967,BEST PICTURE,False,Doctor Dolittle,Adventure|Children|Musical,3.0,152,6.2,7524.0
+118,1967,BEST PICTURE,False,The Graduate,,,106,8.0,236312.0
+119,1967,BEST PICTURE,False,Guess Who's Coming to Dinner,Drama,3.84,108,7.8,34823.0
+120,1967,BEST PICTURE,True,In the Heat of the Night,Drama|Mystery,4.05,110,8.0,59775.0
+121,1968,BEST PICTURE,False,Funny Girl,Drama|Musical|Romance,3.56,151,7.6,16500.0
+122,1968,BEST PICTURE,False,The Lion in Winter,,,134,8.1,26724.0
+123,1968,BEST PICTURE,True,Oliver!,Drama|Musical,3.64,153,7.5,31159.0
+124,1968,BEST PICTURE,False,"Rachel, Rachel",Drama|Romance,3.62,101,7.4,2660.0
+125,1968,BEST PICTURE,False,Romeo and Juliet,Drama|Romance,3.61,138,7.6,26971.0
+126,1969,BEST PICTURE,False,Anne of the Thousand Days,Drama,3.77,145,7.5,6115.0
+127,1969,BEST PICTURE,False,Butch Cassidy and the Sundance Kid,Action|Western,4.03,110,8.1,185605.0
+128,1969,BEST PICTURE,False,"Hello, Dolly!",Comedy|Musical|Romance,3.37,146,7.2,11968.0
+129,1969,BEST PICTURE,True,Midnight Cowboy,Drama,3.96,113,7.9,89499.0
+130,1969,BEST PICTURE,False,Z,Drama|Mystery|Thriller,4.02,127,8.2,21110.0
+131,1970,BEST PICTURE,False,Airport,Drama,3.05,137,6.6,15773.0
+132,1970,BEST PICTURE,False,Five Easy Pieces,Drama,3.9,98,7.5,29826.0
+133,1970,BEST PICTURE,False,Love Story,Drama|Romance,3.21,100,6.9,26871.0
+134,1970,BEST PICTURE,False,M*A*S*H,,,,,
+135,1970,BEST PICTURE,True,Patton,Drama|War,4.0,172,8.0,87450.0
+136,1971,BEST PICTURE,False,A Clockwork Orange,,,136,8.3,680938.0
+137,1971,BEST PICTURE,False,Fiddler on the Roof,Drama|Musical,3.89,181,8.0,34806.0
+138,1971,BEST PICTURE,True,The French Connection,,,104,7.8,98575.0
+139,1971,BEST PICTURE,False,The Last Picture Show,,,118,8.1,37429.0
+140,1971,BEST PICTURE,False,Nicholas and Alexandra,Drama|War,3.43,183,7.3,3967.0
+141,1972,BEST PICTURE,False,Cabaret,Drama|Musical,3.86,124,7.8,42949.0
+142,1972,BEST PICTURE,False,Deliverance,Adventure|Drama|Thriller,3.77,109,7.7,90274.0
+143,1972,BEST PICTURE,False,The Emigrants,,,,,
+144,1972,BEST PICTURE,True,The Godfather,,,175,9.2,1420779.0
+145,1972,BEST PICTURE,False,Sounder,Drama,3.76,105,7.6,3128.0
+146,1973,BEST PICTURE,False,American Graffiti,Comedy|Drama,3.75,110,7.5,74033.0
+147,1973,BEST PICTURE,False,Cries and Whispers,,,,,
+148,1973,BEST PICTURE,False,The Exorcist,,,122,8.0,329151.0
+149,1973,BEST PICTURE,True,The Sting,,,129,8.3,216858.0
+150,1973,BEST PICTURE,False,A Touch of Class,,,106,6.5,2469.0
+151,1974,BEST PICTURE,False,Chinatown,Crime|Film-Noir|Mystery|Thriller,4.15,130,8.2,263490.0
+152,1974,BEST PICTURE,False,The Conversation,,,113,7.9,86745.0
+153,1974,BEST PICTURE,True,The Godfather Part II,,,,,
+154,1974,BEST PICTURE,False,Lenny,Drama,3.77,111,7.6,12929.0
+155,1974,BEST PICTURE,False,The Towering Inferno,,,165,6.9,35462.0
+156,1975,BEST PICTURE,False,Barry Lyndon,Drama|Romance|War,3.83,185,8.1,130762.0
+157,1975,BEST PICTURE,False,Dog Day Afternoon,Crime|Drama,3.96,125,8.0,216415.0
+158,1975,BEST PICTURE,False,Jaws,Action|Horror,3.78,124,8.0,505104.0
+159,1975,BEST PICTURE,False,Nashville,Drama|Musical,3.89,160,7.8,20856.0
+160,1975,BEST PICTURE,True,One Flew over the Cuckoo's Nest,,,,,
+161,1976,BEST PICTURE,False,All the President's Men,Drama|Thriller,4.03,138,8.0,91053.0
+162,1976,BEST PICTURE,False,Bound for Glory,Drama,3.6,147,7.3,4281.0
+163,1976,BEST PICTURE,False,Network,Comedy|Drama,4.01,121,8.1,129862.0
+164,1976,BEST PICTURE,True,Rocky,Drama,3.73,120,8.1,467667.0
+165,1976,BEST PICTURE,False,Taxi Driver,Crime|Drama|Thriller,4.09,114,8.3,628621.0
+166,1977,BEST PICTURE,True,Annie Hall,Comedy|Romance,4.04,93,8.0,235094.0
+167,1977,BEST PICTURE,False,The Goodbye Girl,,,111,7.4,11303.0
+168,1977,BEST PICTURE,False,Julia,Drama,3.59,117,7.3,8006.0
+169,1977,BEST PICTURE,False,Star Wars,,,,,
+170,1977,BEST PICTURE,False,The Turning Point,,,119,6.9,3869.0
+171,1978,BEST PICTURE,False,Coming Home,Drama|War,3.68,127,7.3,11126.0
+172,1978,BEST PICTURE,True,The Deer Hunter,,,183,8.1,282003.0
+173,1978,BEST PICTURE,False,Heaven Can Wait,Comedy,3.54,101,6.9,16762.0
+174,1978,BEST PICTURE,False,Midnight Express,Drama,3.89,121,7.6,64924.0
+175,1978,BEST PICTURE,False,An Unmarried Woman,,,124,7.2,4096.0
+176,1979,BEST PICTURE,False,All That Jazz,Drama|Fantasy|Musical,3.75,123,7.8,23786.0
+177,1979,BEST PICTURE,False,Apocalypse Now,Action|Drama|War,4.11,147,8.5,541750.0
+178,1979,BEST PICTURE,False,Breaking Away,Comedy|Drama,4.0,101,7.7,19908.0
+179,1979,BEST PICTURE,True,Kramer vs. Kramer,Drama,3.73,105,7.8,117293.0
+180,1979,BEST PICTURE,False,Norma Rae,Drama,3.67,114,7.4,9281.0
+181,1980,BEST PICTURE,False,Coal Miner's Daughter,Drama,3.66,124,7.5,15093.0
+182,1980,BEST PICTURE,False,The Elephant Man,,,124,8.2,198567.0
+183,1980,BEST PICTURE,True,Ordinary People,Drama,3.88,124,7.8,41848.0
+184,1980,BEST PICTURE,False,Raging Bull,Drama,4.05,129,8.2,284615.0
+185,1980,BEST PICTURE,False,Tess,,,,,
+186,1981,BEST PICTURE,False,Atlantic City,,,,,
+187,1981,BEST PICTURE,True,Chariots of Fire,Drama,3.69,125,7.2,48905.0
+188,1981,BEST PICTURE,False,On Golden Pond,Drama,3.69,109,7.7,25221.0
+189,1981,BEST PICTURE,False,Raiders of the Lost Ark,,,,,
+190,1981,BEST PICTURE,False,Reds,Drama|Romance,3.51,195,7.4,18978.0
+191,1982,BEST PICTURE,False,E.T. The Extra-Terrestrial,,,,,
+192,1982,BEST PICTURE,True,Gandhi,Drama,3.97,191,8.1,205731.0
+193,1982,BEST PICTURE,False,Missing,Drama|Mystery|Thriller,3.79,122,7.8,16462.0
+194,1982,BEST PICTURE,False,Tootsie,Comedy|Romance,3.62,116,7.4,88680.0
+195,1982,BEST PICTURE,False,The Verdict,,,129,7.8,31960.0
+196,1983,BEST PICTURE,False,The Big Chill,,,105,7.2,29855.0
+197,1983,BEST PICTURE,False,The Dresser,,,118,7.7,4303.0
+198,1983,BEST PICTURE,False,The Right Stuff,,,193,7.9,51724.0
+199,1983,BEST PICTURE,False,Tender Mercies,Drama|Romance|Western,3.95,92,7.4,8419.0
+200,1983,BEST PICTURE,True,Terms of Endearment,Comedy|Drama,3.63,132,7.4,48993.0
+201,1984,BEST PICTURE,True,Amadeus,Drama,4.06,160,8.3,332732.0
+202,1984,BEST PICTURE,True,Amadeus,Drama,4.06,125,7.7,31.0
+203,1984,BEST PICTURE,False,The Killing Fields,,,141,7.9,47283.0
+204,1984,BEST PICTURE,False,A Passage to India,,,164,7.4,15470.0
+205,1984,BEST PICTURE,False,Places in the Heart,Drama,3.75,111,7.4,9303.0
+206,1984,BEST PICTURE,False,A Soldier's Story,,,101,7.2,8012.0
+207,1985,BEST PICTURE,False,The Color Purple,,,154,7.8,70945.0
+208,1985,BEST PICTURE,False,Kiss of the Spider Woman,Drama,3.78,120,7.4,12857.0
+209,1985,BEST PICTURE,True,Out of Africa,Drama|Romance,3.64,161,7.2,63934.0
+210,1985,BEST PICTURE,False,Prizzi's Honor,Comedy|Drama|Romance,3.58,130,6.8,20986.0
+211,1985,BEST PICTURE,False,Witness,Drama|Romance|Thriller,3.83,112,7.4,77815.0
+212,1986,BEST PICTURE,False,Children of a Lesser God,Drama,3.72,119,7.2,13545.0
+213,1986,BEST PICTURE,False,Hannah and Her Sisters,Comedy|Drama|Romance,3.92,107,7.9,61296.0
+214,1986,BEST PICTURE,False,The Mission,,,125,7.5,51281.0
+215,1986,BEST PICTURE,True,Platoon,Drama|War,3.9,120,8.1,348537.0
+216,1986,BEST PICTURE,False,A Room with a View,,,,,
+217,1987,BEST PICTURE,False,Broadcast News,Comedy|Drama|Romance,3.68,133,7.2,24558.0
+218,1987,BEST PICTURE,False,Fatal Attraction,Drama|Thriller,3.43,119,6.9,66624.0
+219,1987,BEST PICTURE,False,Hope and Glory,Drama,3.89,113,7.4,11318.0
+220,1987,BEST PICTURE,True,The Last Emperor,,,163,7.8,84367.0
+221,1987,BEST PICTURE,False,Moonstruck,Comedy|Romance,3.63,102,7.1,43303.0
+222,1988,BEST PICTURE,False,The Accidental Tourist,,,121,6.8,13797.0
+223,1988,BEST PICTURE,False,Dangerous Liaisons,Drama|Romance,3.86,119,7.6,59587.0
+224,1988,BEST PICTURE,False,Mississippi Burning,Crime|Drama|Thriller,3.85,128,7.8,78175.0
+225,1988,BEST PICTURE,True,Rain Man,Drama,3.91,133,8.0,438239.0
+226,1988,BEST PICTURE,False,Working Girl,Comedy|Drama|Romance,3.35,113,6.8,47461.0
+227,1989,BEST PICTURE,False,Born on the Fourth of July,Drama|War,3.44,145,7.2,89281.0
+228,1989,BEST PICTURE,False,Dead Poets Society,Drama,3.92,128,8.1,363716.0
+229,1989,BEST PICTURE,True,Driving Miss Daisy,Drama,3.68,99,7.4,88262.0
+230,1989,BEST PICTURE,False,Field of Dreams,Children|Drama|Fantasy,3.62,107,7.5,99100.0
+231,1989,BEST PICTURE,False,My Left Foot,Drama,3.88,103,7.9,60454.0
+232,1990,BEST PICTURE,False,Awakenings,Drama|Mystery,3.76,121,7.8,111114.0
+233,1990,BEST PICTURE,True,Dances With Wolves,,,,,
+234,1990,BEST PICTURE,False,Ghost,Comedy|Drama|Fantasy|Romance|Thriller,3.44,127,7.0,177508.0
+235,1990,BEST PICTURE,False,"The Godfather, Part III",,,,,
+236,1990,BEST PICTURE,False,Good Fellas,,,,,
+237,1991,BEST PICTURE,False,Beauty and the Beast,Animation|Children|Fantasy|Musical|Romance|IMAX,3.68,84,8.0,384970.0
+238,1991,BEST PICTURE,False,Bugsy,Crime|Drama,3.23,136,6.8,23615.0
+239,1991,BEST PICTURE,False,JFK,Drama|Mystery|Thriller,3.65,189,8.0,130011.0
+240,1991,BEST PICTURE,False,The Prince of Tides,,,132,6.7,14560.0
+241,1991,BEST PICTURE,True,The Silence of the Lambs,,,118,8.6,1117469.0
+242,1992,BEST PICTURE,False,The Crying Game,,,112,7.3,47076.0
+243,1992,BEST PICTURE,False,A Few Good Men,,,138,7.7,212882.0
+244,1992,BEST PICTURE,False,Howards End,Drama,3.76,142,7.5,25637.0
+245,1992,BEST PICTURE,False,Scent of a Woman,Drama,3.77,156,8.0,230482.0
+246,1992,BEST PICTURE,True,Unforgiven,Drama|Western,3.99,130,8.2,337196.0
+247,1993,BEST PICTURE,False,The Fugitive,,,130,7.8,243321.0
+248,1993,BEST PICTURE,False,In the Name of the Father,Drama,3.9,133,8.1,139999.0
+249,1993,BEST PICTURE,False,The Piano,,,121,7.6,72606.0
+250,1993,BEST PICTURE,False,The Remains of the Day,,,134,7.9,57003.0
+251,1993,BEST PICTURE,True,Schindler's List,Drama|War,4.26,195,8.9,1073070.0
+252,1994,BEST PICTURE,True,Forrest Gump,Comedy|Drama|Romance|War,4.06,142,8.8,1587235.0
+253,1994,BEST PICTURE,False,Four Weddings and a Funeral,Comedy|Romance,3.64,117,7.1,125437.0
+254,1994,BEST PICTURE,False,Pulp Fiction,Comedy|Crime|Drama|Thriller,4.17,154,8.9,1619279.0
+255,1994,BEST PICTURE,False,Quiz Show,Drama,3.66,133,7.5,60429.0
+256,1994,BEST PICTURE,False,The Shawshank Redemption,,,142,9.3,2070726.0
+257,1995,BEST PICTURE,False,Apollo 13,Adventure|Drama|IMAX,3.88,140,7.6,243696.0
+258,1995,BEST PICTURE,False,Apollo 13,Adventure|Drama|IMAX,3.88,49,7.6,17.0
+259,1995,BEST PICTURE,False,Babe,Children|Drama,3.61,91,6.8,108212.0
+260,1995,BEST PICTURE,True,Braveheart,Action|Drama|War,4.01,178,8.4,882924.0
+261,1995,BEST PICTURE,False,The Postman (Il Postino),,,,,
+262,1995,BEST PICTURE,False,Sense and Sensibility,Drama|Romance,3.95,136,7.7,91300.0
+263,1996,BEST PICTURE,True,The English Patient,,,162,7.4,164906.0
+264,1996,BEST PICTURE,False,Fargo,Comedy|Crime|Drama|Thriller,4.11,98,8.1,556451.0
+265,1996,BEST PICTURE,False,Jerry Maguire,Drama|Romance,3.6,139,7.3,220761.0
+266,1996,BEST PICTURE,False,Secrets & Lies,Drama,4.04,136,8.0,33459.0
+267,1996,BEST PICTURE,False,Shine,Drama|Romance,3.85,105,7.7,48359.0
+268,1997,BEST PICTURE,False,As Good as It Gets,Comedy|Drama|Romance,3.78,139,7.7,252380.0
+269,1997,BEST PICTURE,False,The Full Monty,,,91,7.2,92111.0
+270,1997,BEST PICTURE,False,Good Will Hunting,Drama|Romance,4.08,126,8.3,757104.0
+271,1997,BEST PICTURE,False,L.A. Confidential,Crime|Film-Noir|Mystery|Thriller,4.06,138,8.3,488883.0
+272,1997,BEST PICTURE,True,Titanic,Drama|Romance,3.41,194,7.8,945422.0
+273,1998,BEST PICTURE,False,Elizabeth,Drama,3.85,124,7.5,85280.0
+274,1998,BEST PICTURE,False,Life Is Beautiful,,,,,
+275,1998,BEST PICTURE,False,Saving Private Ryan,Action|Drama|War,4.05,169,8.6,1095063.0
+276,1998,BEST PICTURE,True,Shakespeare in Love,Comedy|Drama|Romance,3.8,123,7.1,199971.0
+277,1998,BEST PICTURE,False,The Thin Red Line,,,170,7.6,159479.0
+278,1999,BEST PICTURE,True,American Beauty,Drama|Romance,4.12,122,8.4,981140.0
+279,1999,BEST PICTURE,False,The Cider House Rules,,,126,7.4,87776.0
+280,1999,BEST PICTURE,False,The Green Mile,,,189,8.6,999651.0
+281,1999,BEST PICTURE,False,The Insider,,,157,7.9,148817.0
+282,1999,BEST PICTURE,False,The Sixth Sense,,,107,8.1,836639.0
+283,2000,BEST PICTURE,False,Chocolat,Drama|Romance,3.68,121,7.3,167453.0
+284,2000,BEST PICTURE,False,"Crouching Tiger, Hidden Dragon",,,120,7.9,238676.0
+285,2000,BEST PICTURE,False,Erin Brockovich,Drama,3.58,131,7.3,157701.0
+286,2000,BEST PICTURE,True,Gladiator,Action|Adventure|Drama,3.96,155,8.5,1197072.0
+287,2000,BEST PICTURE,False,Traffic,Crime|Drama|Thriller,3.8,147,7.6,185430.0
+288,2001,BEST PICTURE,True,A Beautiful Mind,,,135,8.2,762773.0
+289,2001,BEST PICTURE,False,Gosford Park,Comedy|Drama|Mystery,3.61,131,7.3,72932.0
+290,2001,BEST PICTURE,False,In the Bedroom,Drama,3.68,130,7.4,35201.0
+291,2001,BEST PICTURE,False,The Lord of the Rings: The Fellowship of the Ring,,,178,8.8,1490778.0
+292,2001,BEST PICTURE,False,Moulin Rouge,Drama|Musical|Romance,3.53,,,
+293,2002,BEST PICTURE,True,Chicago,Comedy|Crime|Drama|Musical,3.53,113,7.2,199618.0
+294,2002,BEST PICTURE,False,Gangs of New York,Crime|Drama,3.52,167,7.5,368639.0
+295,2002,BEST PICTURE,False,The Hours,,,110,7.6,115934.0
+296,2002,BEST PICTURE,False,The Lord of the Rings: The Two Towers,,,179,8.7,1333248.0
+297,2002,BEST PICTURE,False,The Pianist,,,150,8.5,632843.0
+298,2003,BEST PICTURE,True,The Lord of the Rings: The Return of the King,,,201,8.9,1474187.0
+299,2003,BEST PICTURE,False,Lost in Translation,Comedy|Drama|Romance,3.79,102,7.8,371460.0
+300,2003,BEST PICTURE,False,Master and Commander: The Far Side of the World,Adventure|Drama|War,3.63,138,7.4,188323.0
+301,2003,BEST PICTURE,False,Mystic River,Crime|Drama|Mystery,3.83,138,8.0,385990.0
+302,2003,BEST PICTURE,False,Seabiscuit,Drama,3.59,140,7.3,62908.0
+303,2004,BEST PICTURE,False,The Aviator,,,170,7.5,305434.0
+304,2004,BEST PICTURE,False,Finding Neverland,Drama,3.71,106,7.7,190256.0
+305,2004,BEST PICTURE,True,Million Dollar Baby,Drama,3.83,132,8.1,581476.0
+306,2004,BEST PICTURE,False,Ray,Drama,3.79,152,7.7,126766.0
+307,2004,BEST PICTURE,False,Sideways,Comedy|Drama|Romance,3.66,127,7.5,168833.0
+308,2005,BEST PICTURE,False,Brokeback Mountain,Drama|Romance,3.6,134,7.7,297198.0
+309,2005,BEST PICTURE,False,Capote,Crime|Drama,3.7,114,7.4,116264.0
+310,2005,BEST PICTURE,True,Crash,,,,,
+311,2005,BEST PICTURE,False,"Good Night, and Good Luck.",Crime|Drama,3.79,93,7.5,89670.0
+312,2005,BEST PICTURE,False,Munich,Action|Crime|Drama|Thriller,3.72,164,7.6,197636.0
+313,2006,BEST PICTURE,False,Babel,Drama|Thriller,3.64,143,7.5,271955.0
+314,2006,BEST PICTURE,True,The Departed,,,151,8.5,1063095.0
+315,2006,BEST PICTURE,False,Letters from Iwo Jima,Drama|War,3.82,141,7.9,145707.0
+316,2006,BEST PICTURE,False,Little Miss Sunshine,Adventure|Comedy|Drama,3.87,101,7.8,406825.0
+317,2006,BEST PICTURE,False,The Queen,Drama,3.71,103,7.3,97284.0
+318,2007,BEST PICTURE,False,Atonement,Drama|Romance|War,3.74,123,7.8,226718.0
+319,2007,BEST PICTURE,False,Juno,Comedy|Drama|Romance,3.75,96,7.5,463288.0
+320,2007,BEST PICTURE,False,Michael Clayton,Drama|Thriller,3.72,119,7.3,148135.0
+321,2007,BEST PICTURE,True,No Country for Old Men,Crime|Drama,4.01,122,8.1,758991.0
+322,2007,BEST PICTURE,False,There Will Be Blood,Drama|Western,3.97,158,8.2,458895.0
+323,2008,BEST PICTURE,False,The Curious Case of Benjamin Button,,,166,7.8,534801.0
+324,2008,BEST PICTURE,False,Frost/Nixon,Drama,3.77,122,7.7,96675.0
+325,2008,BEST PICTURE,False,Milk,Drama,3.75,128,7.6,154879.0
+326,2008,BEST PICTURE,False,Milk,Drama,3.75,102,6.7,2583.0
+327,2008,BEST PICTURE,False,The Reader,,,124,7.6,216679.0
+328,2008,BEST PICTURE,True,Slumdog Millionaire,Crime|Drama|Romance,3.85,120,8.0,741778.0
+329,2009,BEST PICTURE,False,Avatar,Action|Adventure|Sci-Fi|IMAX,3.65,162,7.8,1033804.0
+330,2009,BEST PICTURE,False,The Blind Side,,,129,7.7,264785.0
+331,2009,BEST PICTURE,False,District 9,Mystery|Sci-Fi|Thriller,3.81,112,7.9,600315.0
+332,2009,BEST PICTURE,False,An Education,,,100,7.3,122655.0
+333,2009,BEST PICTURE,True,The Hurt Locker,,,,,
+334,2009,BEST PICTURE,False,Inglourious Basterds,Action|Drama|War,4.0,153,8.3,1104975.0
+335,2009,BEST PICTURE,False,Precious: Based on the Novel 'Push' by Sapphire,,,,,
+336,2009,BEST PICTURE,False,A Serious Man,,,106,7.1,120698.0
+337,2009,BEST PICTURE,False,Up,Adventure|Animation|Children|Drama,3.97,96,8.2,834205.0
+338,2009,BEST PICTURE,False,Up in the Air,Drama|Romance,3.7,109,7.4,299333.0
+339,2010,BEST PICTURE,False,Black Swan,Drama|Thriller,3.79,108,8.0,643344.0
+340,2010,BEST PICTURE,False,The Fighter,,,116,7.8,314452.0
+341,2010,BEST PICTURE,False,Inception,Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,4.16,148,8.8,1815438.0
+342,2010,BEST PICTURE,False,The Kids Are All Right,,,106,7.0,120209.0
+343,2010,BEST PICTURE,True,The King's Speech,,,118,8.0,588876.0
+344,2010,BEST PICTURE,False,127 Hours,Adventure|Drama|Thriller,3.63,94,7.6,321073.0
+345,2010,BEST PICTURE,False,The Social Network,,,120,7.7,564394.0
+346,2010,BEST PICTURE,False,Toy Story 3,Adventure|Animation|Children|Comedy|Fantasy|IMAX,3.87,103,8.3,672603.0
+347,2010,BEST PICTURE,False,True Grit,Western,3.8,110,7.6,281676.0
+348,2010,BEST PICTURE,False,Winter's Bone,Drama|Thriller,3.69,100,7.2,127048.0
+349,2011,BEST PICTURE,True,The Artist,Comedy|Drama|Romance,3.75,100,7.9,216121.0
+350,2011,BEST PICTURE,True,The Artist,Comedy|Drama|Romance,3.75,100,8.0,5.0
+351,2011,BEST PICTURE,False,The Descendants,,,115,7.3,222664.0
+352,2011,BEST PICTURE,False,Extremely Loud & Incredibly Close,,,129,6.9,92715.0
+353,2011,BEST PICTURE,False,The Help,,,146,8.1,389087.0
+354,2011,BEST PICTURE,False,Hugo,Children|Drama|Mystery,3.54,126,7.5,283131.0
+355,2011,BEST PICTURE,False,Midnight in Paris,Comedy|Fantasy|Romance,3.79,94,7.7,353610.0
+356,2011,BEST PICTURE,False,Moneyball,Drama,3.86,133,7.6,323648.0
+357,2011,BEST PICTURE,False,The Tree of Life,,,139,6.8,155360.0
+358,2011,BEST PICTURE,False,War Horse,Drama|War,3.39,146,7.2,135219.0
+359,2012,BEST PICTURE,False,Amour,Drama|Romance,3.81,127,7.9,84339.0
+360,2012,BEST PICTURE,True,Argo,Drama|Thriller,3.78,120,7.7,530880.0
+361,2012,BEST PICTURE,False,Beasts of the Southern Wild,Drama|Fantasy,3.65,93,7.3,77134.0
+362,2012,BEST PICTURE,False,Django Unchained,Action|Drama|Western,4.0,165,8.4,1194849.0
+363,2012,BEST PICTURE,False,Les Misérables,,,158,7.6,283626.0
+364,2012,BEST PICTURE,False,Life of Pi,Adventure|Drama|IMAX,3.7,127,7.9,529919.0
+365,2012,BEST PICTURE,False,Lincoln,Drama|War,3.63,150,7.4,227225.0
+366,2012,BEST PICTURE,False,Silver Linings Playbook,Comedy|Drama,3.73,122,7.7,617297.0
+367,2012,BEST PICTURE,False,Zero Dark Thirty,Action|Drama|Thriller,3.71,157,7.4,248850.0
+368,2013,BEST PICTURE,False,American Hustle,Crime|Drama,3.55,138,7.2,415450.0
+369,2013,BEST PICTURE,False,Captain Phillips,Adventure|Drama|Thriller|IMAX,3.8,134,7.8,384246.0
+370,2013,BEST PICTURE,False,Dallas Buyers Club,Drama,3.91,117,8.0,399190.0
+371,2013,BEST PICTURE,False,Gravity,Action|Sci-Fi|IMAX,3.63,91,7.7,702473.0
+372,2013,BEST PICTURE,False,Her,Drama|Romance|Sci-Fi,3.88,126,8.0,460550.0
+373,2013,BEST PICTURE,False,Nebraska,Adventure|Drama,3.73,115,7.7,104721.0
+374,2013,BEST PICTURE,False,Philomena,Comedy|Drama,3.75,98,7.6,88225.0
+375,2013,BEST PICTURE,True,12 Years a Slave,Drama,3.88,134,8.1,570967.0
+376,2013,BEST PICTURE,False,The Wolf of Wall Street,,,180,8.2,1020561.0
+377,2014,BEST PICTURE,False,American Sniper,Action|War,3.49,133,7.3,398192.0
+378,2014,BEST PICTURE,True,Birdman or (The Unexpected Virtue of Ignorance),,,119,7.7,513031.0
+379,2014,BEST PICTURE,False,Boyhood,Drama,3.81,165,7.9,313703.0
+380,2014,BEST PICTURE,False,The Grand Budapest Hotel,,,99,8.1,626412.0
+381,2014,BEST PICTURE,False,The Imitation Game,Drama|Thriller|War,4.02,114,8.0,612589.0
+382,2014,BEST PICTURE,False,Selma,Drama,3.68,128,7.5,77012.0
+383,2014,BEST PICTURE,False,The Theory of Everything,Drama|Romance,3.81,123,7.7,356799.0
+384,2014,BEST PICTURE,False,Whiplash,Drama,4.13,106,8.5,604511.0
+385,2015,BEST PICTURE,False,The Big Short,,,130,7.8,304681.0
+386,2015,BEST PICTURE,False,Bridge of Spies,Drama|Thriller,3.79,142,7.6,260518.0
+387,2015,BEST PICTURE,False,Brooklyn,Drama|Romance,3.78,117,7.5,115811.0
+388,2015,BEST PICTURE,False,Mad Max: Fury Road,Action|Adventure|Sci-Fi|Thriller,3.83,120,8.1,769890.0
+389,2015,BEST PICTURE,False,The Martian,Adventure|Drama|Sci-Fi,4.04,144,8.0,669824.0
+390,2015,BEST PICTURE,False,The Revenant,Adventure|Drama,3.77,156,8.0,610889.0
+391,2015,BEST PICTURE,False,Room,Drama,3.98,118,8.2,310530.0
+392,2015,BEST PICTURE,True,Spotlight,Thriller,4.08,129,8.1,359458.0
+393,2015,BEST PICTURE,True,Spotlight,Thriller,4.08,99,8.1,12.0
+394,2016,BEST PICTURE,False,Arrival,Sci-Fi,4.02,116,7.9,505053.0
+395,2016,BEST PICTURE,False,Fences,Drama,3.5,139,7.2,85255.0
+396,2016,BEST PICTURE,False,Hacksaw Ridge,Drama|War,3.86,139,8.1,359456.0
+397,2016,BEST PICTURE,False,Hell or High Water,Crime|Drama,3.88,102,7.6,172935.0
+398,2016,BEST PICTURE,False,Hidden Figures,Drama,4.01,127,7.8,168163.0
+399,2016,BEST PICTURE,False,La La Land,Comedy|Drama|Romance,3.75,128,8.0,427459.0
+400,2016,BEST PICTURE,False,Lion,Drama,3.92,118,8.1,178525.0
+401,2016,BEST PICTURE,False,Manchester by the Sea,Drama,3.85,137,7.8,211347.0
+402,2016,BEST PICTURE,True,Moonlight,,,111,7.4,223285.0
+403,2017,BEST PICTURE,False,Call Me by Your Name,Drama|Romance,3.82,132,7.9,148874.0
+404,2017,BEST PICTURE,False,Darkest Hour,Drama|War,3.79,125,7.4,133177.0
+405,2017,BEST PICTURE,False,Dunkirk,Action|Drama|Thriller|War,3.8,106,7.9,456396.0
+406,2017,BEST PICTURE,False,Get Out,Horror,3.95,104,7.7,384419.0
+407,2017,BEST PICTURE,False,Lady Bird,Comedy,3.79,94,7.4,172468.0
+408,2017,BEST PICTURE,False,Phantom Thread,Drama|Romance,3.62,130,7.5,83673.0
+409,2017,BEST PICTURE,False,The Post,Drama|Thriller,3.63,116,7.2,105173.0
+410,2017,BEST PICTURE,True,The Shape of Water,Adventure|Drama|Fantasy,3.6,123,7.3,299111.0
+411,2017,BEST PICTURE,False,"Three Billboards Outside Ebbing, Missouri",Crime|Drama,4.01,115,8.2,332659.0
